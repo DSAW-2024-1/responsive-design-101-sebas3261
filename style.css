@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.fondo{
+    background-color: hsl(30, 54%, 90%);
+}
+
+.container{
+    background-color: white;
+}
