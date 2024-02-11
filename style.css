@@ -40,7 +40,7 @@ ul{
 }
 
 ol{
-    margin-left: 5%;
+    list-style-position: inside;
 }
 
 li{
