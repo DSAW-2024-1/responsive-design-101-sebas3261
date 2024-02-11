@@ -129,10 +129,6 @@ table td:last-child td {
     .imagen{
         border-radius: 10px;
     }
-
-    ol{
-        margin: 3%;
-    }
     
 }
   
@@ -141,9 +137,5 @@ table td:last-child td {
     .container{
         width: 40%;
         padding: 2%;
-    }
-
-    ol{
-        margin: 2%;
     }
 }
