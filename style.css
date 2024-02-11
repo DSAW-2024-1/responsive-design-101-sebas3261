@@ -54,7 +54,7 @@ li::marker{
 
 .fondoMorado{
     background-color: hsl(330, 100%, 98%);
-    padding: 2%;
+    padding: 5%;
     border-radius: 20px;
     color: hsl(332, 51%, 32%);
     ul{
