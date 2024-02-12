@@ -68,3 +68,6 @@ El objetivo de este taller es hacer que la página que ya desarrollamos se vea c
 ### Créditos
 - [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
+### Link de la pagina subida
+https://dsaw-2024-1.github.io/responsive-design-101-sebas3261/
+
